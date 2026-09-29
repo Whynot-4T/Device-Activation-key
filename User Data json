@@ -10,5 +10,13 @@
         "key": "key67890",
         "expirydate": "15-06-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "226475b2ac5a0000",
+        "key": "Tani4u",
+        "expirydate": "30-09-2026",
+        "Allowoffline": false
     }
+
+    
 ]
