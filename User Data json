@@ -22,7 +22,13 @@
         "key": "Iswar4u",
         "expirydate": "05-01-2027",
         "Allowoffline": false
-    }
+    },
+     {
+        "device_id": "f6b8bb134e2adb2a",
+        "key": "Veerendra4u",
+        "expirydate": "28-11-2026",
+        "Allowoffline": false
+    },
 
     
 ]
